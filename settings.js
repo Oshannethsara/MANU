@@ -45,5 +45,5 @@ function convertToBool(text, fault = 'true') {
 module.exports = {
 SESSION_ID: process.env.SESSION_ID || "Manu-MD&TEsyjQbQ#bB2YW1jcXjajctiAygIZEq-7kMkY2z6spNU_O_ifGRg",
 GITHUB_USERNAME: process.env.GITHUB_USERNAME || "Oshannethsara",
-GITHUB_AUTH_TOKEN: process.env.GITHUB_AUTH_TOKEN || "put your github auth token without ghp_",
+GITHUB_AUTH_TOKEN: process.env.GITHUB_AUTH_TOKEN || "AvxsGQVyDWG91BsJbEqObRp92cpznn4HBZaW",
 };
